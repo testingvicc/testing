@@ -5,3 +5,4 @@ pandas-bokeh
 timesketch-api-client
 dill
 gdown
+tshark
