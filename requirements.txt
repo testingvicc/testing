@@ -1,9 +1,2 @@
-ds4n6-lib
-seaborn
-untangle
-pandas-bokeh
-timesketch-api-client
-dill
-gdown
 pandas-datareader>=0.5.0
 matplotlib>=2.1.1
