@@ -13,3 +13,5 @@ jupyter nbextension enable --py --sys-prefix widgetsnbextension
 
 # qgrid lab
 #jupyter labextension install qgrid2
+
+jupyter nbextension enable --py --sys-prefix contrib nbextensions
