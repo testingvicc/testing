@@ -109,7 +109,6 @@ wrapt==1.12.1
 xmltodict==0.12.0
 zipp==1.0.0
 gdown
-jupyter_contrib_nbextensions
 # ds4n6-lib
 ds4n6_lib
 seaborn
